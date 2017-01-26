@@ -2,6 +2,6 @@
 
 founder: el fundador
 
-framework: ?
+framework: la	infraestructura?
 
-function: el función
+function: la función
